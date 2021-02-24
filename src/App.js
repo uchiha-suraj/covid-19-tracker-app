@@ -95,7 +95,7 @@ function App() {
         } else {
           console.log("Lat:", data.countryInfo.lat);
           console.log("Lng:", data.countryInfo.long);
-          setMapCenter([20.5937, 78.9629]);  //this will make current country in map center 
+          setMapCenter([data.countryInfo.lat, data.countryInfo.long]);  //this will make current country in map center 
           setMapZoom(4);  //zoom in to selected country
         }
       });
