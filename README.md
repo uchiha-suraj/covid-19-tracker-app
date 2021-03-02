@@ -1,5 +1,15 @@
 # COVID-19-TRACKER
 
+To build this app I have used >>>
+1. react
+2. The API I have used is "disease.sh"
+3. material-ui => for styling or designing
+4. react-chartjs => to build the line graph
+5. numeral => for tooltip, when we hover on the graph, we can see the value on that point.
+6. react-leaflet => for map
+7. firebase => to deploy the app
+
+
 See the project here ----->>>>>  :point_down: 
 
 https://covid-19-tracker-8b7de.web.app/
