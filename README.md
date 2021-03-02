@@ -1,6 +1,8 @@
 # COVID-19-TRACKER
 
-See the project here ----->>>>>  (https://covid-19-tracker-8b7de.web.app/)
+See the project here ----->>>>>  :point_down: 
+
+https://covid-19-tracker-8b7de.web.app/
 
 ## Available Scripts
 
