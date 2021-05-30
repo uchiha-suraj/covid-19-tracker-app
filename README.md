@@ -1,82 +1,47 @@
 # COVID-19-TRACKER
 
-To build this app I have used >>>
-1. react
-2. The API I have used is "disease.sh"
-3. material-ui => for styling or designing
-4. react-chartjs => to build the line graph
-5. numeral => for tooltip, when we hover on the graph, we can see the value on that point.
-6. react-leaflet => for map
-7. firebase => to deploy the app
+1. Firebase link of this project
+2. Key Features
+3. Technologies I've used
+ 
+|
 
+## 1. Firebase link of this project:  
+   ### See the project here >>>👉   https://covid-19-tracker-e5754.web.app/
 
-See the project here ----->>>>>  :point_down: 
-
-https://covid-19-tracker-8b7de.web.app/
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## 2.  ##Key Features:
+    1. We can see total number of cases, total recovered cases and total number of deaths
+       worldwide and also in a specific country, from the box.
+       
+    2. From the table we can see the ranking of each country based on the total cases.
+    
+    3. By clicking any country from the map we can get the clear visualization of 
+       corona scenario of that specific nation.
+       
+    4. From the chart line graph we can get the clear data visualization of total cases,
+       total recoveries and total deaths.
+  
+  <img src = "GIFs/covid-19-tracker.gif"  > 
+  
+  ### Mobile Responsiveness
+  
+  <img src = "GIFs/covid-19-tracker-mobileResponsive.gif"  > 
+    
+  
+ 3. ##Technologies I've used:
+    1. react => Entire front-end design of this app is made by Reactjs.
+    
+    2. The API I have used is "disease.sh".
+    
+    3. material-UI => I've used Material-UI to style this application.
+    
+    4. react-chartjs => to build the chart graphical representation.
+    
+    5. numeral => for tooltip, when we hover on the graph, we can get the value on that point.
+    
+    6. react-leaflet => to build the map.
+    
+    7. firebase => to deploy the app
+    
+    
+  
