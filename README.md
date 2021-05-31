@@ -31,7 +31,7 @@
 
   **[⬆ Back to Top](#covid-19-tracker)**
   
-## 3. Technologies I've used:
+3. ## Technologies I've used:
     1. react => Entire front-end design of this app is made by Reactjs.
     
     2. The API I have used is "disease.sh".
