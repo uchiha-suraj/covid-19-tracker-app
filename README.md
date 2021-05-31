@@ -1,8 +1,9 @@
 # COVID-19-TRACKER
 
 1. Firebase link of this project
-2. Key Features
-3. Technologies I've used
+2. [Key Features](#key-features) 
+3. [Technologies I've used](#technologies-i've-used)
+
  
 |
 
@@ -27,6 +28,8 @@
   
   <img src = "GIFs/covid-19-tracker-mobileResponsive.gif"  > 
     
+
+  **[⬆ Back to Top](#covid-19-tracker)**
   
 ## 3. Technologies I've used:
     1. react => Entire front-end design of this app is made by Reactjs.
@@ -44,4 +47,4 @@
     7. firebase => to deploy the app
     
     
-  
+  **[⬆ Back to Top](#covid-19-tracker)**
