@@ -5,10 +5,10 @@
 3. [Technologies I've used](#technologies-ive-used)
  
 
-## 1. Firebase link of this project:  
+## Firebase link of this project:  
    ### See the project here >>>👉   https://covid-19-tracker-e5754.web.app/
 
-## 2. Key Features:
+## Key Features:
     1. We can see total number of cases, total recovered cases and total number of deaths
        worldwide and also in a specific country, from the box.
        
@@ -29,7 +29,7 @@
 
   **[⬆ Back to Top](#covid-19-tracker)**
 
-3. ## Technologies I've used:
+## Technologies I've used:
     1. react => Entire front-end design of this app is made by Reactjs.
     
     2. The API I have used is "disease.sh".
