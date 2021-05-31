@@ -2,9 +2,9 @@
 
 <img src = "img/covid-19-tracker.png"  > 
 
-1. Firebase link of this project
-2. [Key Features:](#key-features) 
-3. [Technologies I've used](#technologies-ive-used)
+### 1. Firebase link of this project
+### 2. [Key Features](#key-features) 
+### 3. [Technologies I've used](#technologies-ive-used)
  
 
 ## Firebase link of this project:  
