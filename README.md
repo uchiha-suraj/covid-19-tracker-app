@@ -36,7 +36,7 @@
     
     2. The API I have used is "disease.sh".
     
-    3. material-UI => I've used Material-UI to style this application.
+    3. material-UI => I've used Material-UI to design this application.
     
     4. react-chartjs => to build the chart graphical representation.
     
