@@ -36,15 +36,17 @@
     
     2. The API I have used is "disease.sh".
     
-    3. material-UI => I've used Material-UI to design this application.
+    3. flex-box => used flexbox in CSS.
     
-    4. react-chartjs => to build the chart graphical representation.
+    4. material-UI => I've used Material-UI to design this application.
     
-    5. numeral => for tooltip, when we hover on the graph, we can get the value on that point.
+    5. react-chartjs => to build the chart graphical representation.
     
-    6. react-leaflet => to build the map.
+    6. numeral => for tooltip, when we hover on the graph, we can get the value on that point.
     
-    7. firebase => to deploy the app
+    7. react-leaflet => to build the map.
+    
+    8. firebase => to deploy the app
     
     
   **[⬆ Back to Top](#covid-19-tracker)**
