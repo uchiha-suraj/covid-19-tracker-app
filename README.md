@@ -1,4 +1,4 @@
-# COVID-19-TRACKER
+# COVID-19-TRACKER 
 
 <img src = "img/covid-19-tracker.png"  > 
 
